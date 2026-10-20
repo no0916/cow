@@ -1,0 +1,6 @@
+{
+    "name": "no0916/cow",
+    "require": {
+        "monolog/monolog": "^3.0"
+    }
+}
